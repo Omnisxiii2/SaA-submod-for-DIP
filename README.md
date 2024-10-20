@@ -2,7 +2,7 @@ Welcome! If you are here, you have BrotherMunro's Dreadnoughts Improvement Mod. 
 
 The Sloops and Advisos submod adds new ships starting around 1920 in the Torpedo Boat class, utilizing extremely cheap ships; good for navies on a budget, but perhaps not good in actual combat.
 
-##This submod is a work in progress and is not complete yet. Here's what I need to do:##
+#This submod is a work in progress and is not complete yet. Here's what I need to do:#
 * Adjust balancing
 * Add a few more hulls for some nations
 

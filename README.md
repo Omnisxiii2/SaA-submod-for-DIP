@@ -10,6 +10,6 @@ This submod makes minor edits to your ships; I have tried to avoid making any ch
 
 All versions of this submod will be saved and backed up here; however this submod was created when 3a13 was the current version and I will not be making versions for any DIP version older than this. You may freely use this in your own work. I appreciate credit but it is not necessary.
 
-To use, simply download all of these files, then replace the mod's original files with matching names with these.
+To use, simply download all of these files, then replace the mod's original files with matching names with these. The genArmorDefaults file is optional, but helps the AI with generating properly armored ships, it should replace the original in the TAFData folder.
 
 If you enjoy the submod, consider trying out my other submod for DIP: https://github.com/Omnisxiii2/HMaLSN-submod-for-DIP
